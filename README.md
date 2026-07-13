@@ -6,13 +6,7 @@ A quantum computing approach to solving [Nonogram](https://en.wikipedia.org/wiki
 
 Nonograms are small, visual examples of a much broader class of problems: **constraint satisfaction problems (CSPs)**, where a solution must satisfy many rules at once. This project shows how those rules can be translated into a reversible quantum oracle and used inside Grover's algorithm. In plain terms, it is a hands-on demonstration of how quantum search can mark valid puzzle boards, amplify them, and recover solutions through measurement.
 
-## How to Cite
 
-If you use this project in academic work, please cite the repository using [`CITATION.cff`](CITATION.cff). You can also cite the related paper:
-
-> Costa, E. F. S. da, Gomes, L. D. S., Santos, R. S. F. dos, Fonseca, J. E. da, Terada, R., Hayashi, V. T., and Ferreira, B. K. (2026). *A Quantum Approach to Nonogram Puzzle Solving Using Grover's Algorithm*. <>.
-
----
 
 ## Repository Structure
 
